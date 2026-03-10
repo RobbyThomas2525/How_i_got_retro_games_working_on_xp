@@ -43,7 +43,8 @@ Fraps 3.5.99 (FREE) i archived https://archive.org/details/fraps3.5.99setup-XP
 
 GAMES
 
-Patches For old need for speed games https://github.com/KilLo445/NFSPatcher (you can also go though his /Remote/PatchFiles/Games for this so you don't have to use the tool 
+Patches For old need for speed games https://github.com/KilLo445/NFSPatcher (you can also go though 
+/Remote/PatchFiles/Games for this so you don't have to use the tool)
 
 For old 3D era GTA: 3 i used the steam version and used the EXE from here https://www.speedrun.com/gtaiii/resources/c6bjy 
 
