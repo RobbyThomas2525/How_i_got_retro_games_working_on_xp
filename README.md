@@ -32,6 +32,7 @@ Step 5 other than that you should be ready to install games i'll just list some 
 CPU-ID https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip
 
 Msi Afterburner https://www.guru3d.com/download/msi-afterburner-beta-download 
+
 (make sure to choose 4.6.5)
 
 Msi Afterburner 4.6.5 i archived https://archive.org/details/guru-3d.com-msiafterburner-setup-4.6.5-for-xp
@@ -48,11 +49,11 @@ For old 3D era GTA: 3 i used the steam version and used the EXE from here https:
 
 used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb
 
-Vice City for now i made it a japanese version from here https://www.speedrun.com/gtavc/resources/ub42v 
+Vice City: for now i made it a japanese version from here https://www.speedrun.com/gtavc/resources/ub42v 
 
 used dinput8.dll to fix the mouse as well https://www.speedrun.com/gtavc/resources/q7uht
 
-San Andreas the steam version seems to work no problems used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb 
+San Andreas: the steam version seems to work no problems used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb 
 
 (silient patch doesn't seem to work for any of these)
 
