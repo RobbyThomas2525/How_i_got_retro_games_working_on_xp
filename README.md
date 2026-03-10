@@ -7,12 +7,13 @@ for example i use a Lenovo Thinkcentre 6072-DMU with a Intel core 2 duo E8200 an
 (yes i know google says it doesn't have integrated graphics but this ones shows Intel (R) Q33/Q35/G33 graphics in the bios)
 
 Step 2 is getting a windows ISO and put it on a DVD/USB i'll have one here it's a XP professional SP3 32 Bit iso that still needs to be activated after 30 days either by 
-using microsoft online activation tool now or endermanch tool it will later in this but other than that installing XP should be easy 
+using microsoft online activation tool now or endermanch tool it will later in this but other than that installing XP should be easy just skip the step of putting the product key in 
 
 Step 3 is downloading drivers it will be different depending on the brand motherboard and if your using a gpu or integrated graphics after your done doing that 
 you should be good except for one thing 
 
-Step 4 is activating windows 
+Step 4 is activating windows if you havn't yet you probably have either have a notification on the taskbar telling you or you can't log in anymore if your over the 30 day mark
+the way i activated mine is i used the phone activation but since they got rid of it you got two options microsofts new online activation or Endermanch way 
 https://visualsupport.microsoft.com/
 
 https://github.com/Endermanch/XPConfirmationIDKeygen
