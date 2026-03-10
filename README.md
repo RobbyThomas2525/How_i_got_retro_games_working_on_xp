@@ -48,5 +48,6 @@ used dinput8.dll to fix the mouse as well https://www.speedrun.com/gtavc/resourc
 San Andreas the steam version seems to work no problems used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb 
 (silient patch doesn't seem to work for any of these)
 
-GOG games seem to be hit or miss cause of the patches GOG puts in place you might be able though to use a older patch depending on the game and hey at least you get a offline launcher of the game
+GOG games seem to be hit or miss cause of the patches GOG puts in place you might be able though to use a older patch 
+depending on the game and hey at least you get a offline launcher of the game
 
