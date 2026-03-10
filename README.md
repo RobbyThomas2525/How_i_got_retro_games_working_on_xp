@@ -7,7 +7,8 @@ for example i use a Lenovo Thinkcentre 6072-DMU with a Intel core 2 duo E8200 an
 (yes i know google says it doesn't have integrated graphics but this ones shows Intel (R) Q33/Q35/G33 graphics in the bios)
 
 Step 2 is getting a windows ISO and put it on a DVD/USB i'll have one here it's a XP professional SP3 32 Bit iso that still needs to be activated after 30 days either by 
-using microsoft online activation tool now or endermanch tool it will later in this but other than that installing XP should be easy just skip the step of putting the product key in 
+using microsoft online activation tool now or endermanch tool it will later in this but other than that installing XP should be easy 
+just skip the step of putting the product key in 
 
 Step 3 is downloading drivers i found two way of doing that either putting drivers on a usb or going though the internet on your XP machine if you do the XP way the only way i found a browser to work
 without using a usb is using https://www.mypal-browser.org/ going though the release directory and choose the latest one cause of the fact your using internet explore 6 if you use the internet 
