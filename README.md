@@ -30,9 +30,13 @@ https://github.com/Endermanch/XPConfirmationIDKeygen
 Step 5 other than that you should be ready to install games i'll just list some tools i use that you might want as well as tools for popular games from that era
 
 CPU-ID https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip
+
 Msi Afterburner https://www.guru3d.com/download/msi-afterburner-beta-download (make sure to choose 4.6.5)
+
 Msi Afterburner 4.6.5 i archived https://archive.org/details/guru-3d.com-msiafterburner-setup-4.6.5-for-xp
+
 Fraps https://fraps.com/download.php 
+
 Fraps 3.5.99 (FREE) i archived https://archive.org/details/fraps3.5.99setup-XP
 
 GAMES
