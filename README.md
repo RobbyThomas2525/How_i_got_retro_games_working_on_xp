@@ -40,12 +40,15 @@ GAMES
 Patches For old need for speed games https://github.com/KilLo445/NFSPatcher (you can also go though his /Remote/PatchFiles/Games for this so you don't have to use the tool 
 
 For old 3D era GTA: 3 i used the steam version and used the EXE from here https://www.speedrun.com/gtaiii/resources/c6bjy 
+
 used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb
 
 Vice City for now i made it a japanese version from here https://www.speedrun.com/gtavc/resources/ub42v 
+
 used dinput8.dll to fix the mouse as well https://www.speedrun.com/gtavc/resources/q7uht
 
 San Andreas the steam version seems to work no problems used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb 
+
 (silient patch doesn't seem to work for any of these)
 
 GOG games seem to be hit or miss cause of the patches GOG puts in place you might be able though to use a older patch 
