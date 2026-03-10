@@ -10,8 +10,8 @@ Step 2 is getting a windows ISO and put it on a DVD/USB i'll have one here it's 
 using microsoft online activation tool now or endermanch tool it will later in this but other than that installing XP should be easy just skip the step of putting the product key in 
 
 Step 3 is downloading drivers i found two way of doing that either putting drivers on a usb or going though the internet on your XP machine if you do the XP way the only way i found a browser to work
-without using a usb is using https://www.mypal-browser.org/ going though the release directory and choose the latest one cause of the fact your using internet explore 6 
-if you use the internet (DO NOT USE ANY THIRD PARTY SITE USE THE MANUFACTURERS OFFICAL SITE ONLY)
+without using a usb is using https://www.mypal-browser.org/ going though the release directory and choose the latest one cause of the fact your using internet explore 6 if you use the internet 
+(DO NOT USE ANY THIRD PARTY SITE USE THE MANUFACTURERS OFFICAL SITE ONLY)
 it will be different depending on the brand motherboard and if your using a gpu or integrated graphics after your done doing that 
 you should be good except for one thing 
 
