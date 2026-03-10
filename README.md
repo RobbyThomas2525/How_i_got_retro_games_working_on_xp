@@ -27,5 +27,19 @@ for Endermanchs way all you do is download his file run it click get from the sy
 but the program list still has the activate windows on top i'm not sure why but if you click it it says it's already activated 
 https://github.com/Endermanch/XPConfirmationIDKeygen
 
+Step 5 other than that you should be ready to install games i'll just list some tools i use that you might want as well as tools for popular games from that era
 
+CPU-ID https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip
+Msi Afterburner https://www.guru3d.com/download/msi-afterburner-beta-download (make sure to choose 4.6.5)
+Msi Afterburner 4.6.5 i archived https://archive.org/details/guru-3d.com-msiafterburner-setup-4.6.5-for-xp
+Fraps https://fraps.com/download.php 
+Fraps 3.5.99 (FREE) i archived https://archive.org/details/fraps3.5.99setup-XP
+
+GAMES
+
+Patches For old need for speed games https://github.com/KilLo445/NFSPatcher (you can also go though his /Remote/PatchFiles/Games for this so you don't have to use the tool 
+For old 3D era GTA: 3 i used the steam version and used the EXE from here https://www.speedrun.com/gtaiii/resources/c6bjy used dinput8.dll from here https://www.speedrun.com/gtasa/resources/5ijeb
+Vice City for now i made it a japanese version from here https://www.speedrun.com/gtavc/resources/ub42v used dinput8.dll to fix the mouse as well https://www.speedrun.com/gtavc/resources/q7uht
+San Andreas the steam version seems to work no problems https://www.speedrun.com/gtasa/resources/5ijeb (silient patch doesn't seem to work for any of these)
+GOG games seem to be hit or miss cause of the patches GOG puts in place you might be able though to use a older patch depending on the game and hey at least you get a offline launcher of the game
 
