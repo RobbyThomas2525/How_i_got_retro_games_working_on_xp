@@ -31,6 +31,8 @@ Step 5 other than that you should be ready to install games i'll just list some 
 
 CPU-ID https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip
 
+CPU-ID i archived https://archive.org/download/cpu-z_1.04-legacy-windows
+
 Msi Afterburner https://www.guru3d.com/download/msi-afterburner-beta-download 
 
 (make sure to choose 4.6.5)
