@@ -17,8 +17,10 @@ it will be different depending on the brand motherboard and if your using a gpu 
 you should be good except for one thing 
 
 Step 4 is activating windows if you havn't yet you probably have either have a notification on the taskbar telling you or you can't log in anymore if your over the 30 day mark
+
 to reset the 30 day mark boot into safe mode with F8 and when you boot in safe mode or safe mode with command prompt if you picked just safe mode get into command prompt and type in this 
 'rundll32.exe syssetup,SetupOobeBnk' then after reboot in normal boot 
+
 the way i activated mine is i used the phone activation but since they got rid of it you got two options microsofts new online activation or Endermanch way 
 
 for microsofts way you need a outlook/xbox account then after choose XP and type in the installation ID click submit 
