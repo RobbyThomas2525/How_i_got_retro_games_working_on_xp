@@ -28,8 +28,8 @@ then it should give you the confirmation ID and type that in and click submit an
 https://visualsupport.microsoft.com/
 
 for Endermanchs way first if it's past the 30 day window and you will first need to boot into safe mode with F8 and when you boot in safe mode or safe mode with command prompt 
-if you picked just safe mode get into command prompt and type in this                                                                                                                                                                     
-'rundll32.exe syssetup,SetupOobeBnk' then after reboot in normal boot it will reset the 30 day timer then all you do have to do is download his file run it click get from the 
+if you picked just safe mode get into command prompt and type in this 'rundll32.exe syssetup,SetupOobeBnk'                                                                                                                                         
+then after reboot in normal boot it will reset the 30 day timer then all you do have to do is download his file run it click get from the 
 system then store to the system the only thing i can tell though his way (i haven't tested it much) 
 but the program list still has the activate windows on top i'm not sure why but if you click it it says it's already activated 
 https://github.com/Endermanch/XPConfirmationIDKeygen
